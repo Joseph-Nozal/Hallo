@@ -32,3 +32,5 @@ try:
 
 except:
         print ('Publish Fail') 
+
+print ('Hotdog')
